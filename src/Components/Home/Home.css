@@ -1,0 +1,14 @@
+.itemForSale {
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+}
+
+img {
+    height: 100px;
+    width: auto;
+}
+
+.showcase {
+    display: flex;
+}

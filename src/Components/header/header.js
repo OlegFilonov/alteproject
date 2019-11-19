@@ -7,7 +7,7 @@ export default function Header() {
             <h1>React Pizza App</h1>
             <nav>
                 <NavLink to='/' exact>Home</NavLink>
-                <NavLink to='/сart' exact>Корзина</NavLink>
+                <NavLink to='/cart' exact>Корзина</NavLink>
                 <NavLink to='/form' exact>Форма связи</NavLink>
                 <NavLink to='/order' exact>Ваш заказ</NavLink>
             </nav>
